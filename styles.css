@@ -1,0 +1,41 @@
+body {
+  background-color: #3B5360;
+}
+.container-fluid  {
+  background-color: #8B5E83;
+}
+.container-fluid a {
+  color: black;
+}
+.container-fluid a:hover {
+  color: #BEE5D3;
+}
+
+.section2 {
+  text-align: center;
+}
+.col-sm {
+  padding: 50px 20px 50px 80px;
+  text-align: left;
+  margin: 0px 15px 0px 20px;
+}
+
+.col-sm button {
+  background-color: #F88F01;
+  margin: 5px 0px 5px 0px;
+}
+
+.col align-self {
+  margin: 5px 15px 10px 20px;
+  padding: 50px 20px 50px 80px;
+}
+
+.section3 {
+  text-align: center;
+}
+.col-6 {
+  padding: 50px 20px 50px 80px;
+}
+.fourth {
+  text-align: center;
+}
